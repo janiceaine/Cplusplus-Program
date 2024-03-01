@@ -16,6 +16,7 @@ Upon running the program, users will be prompted to enter the following informat
 After providing the required input, the program will generate a report displaying the year-end balance and earned interest for each year, both with and without additional monthly deposits.   
 
 ADDITIONAL INFORMATION
+
 • Particularly Well-Done: The code's structure and organization were one area of the project where I think I excelled. The banking calculator's functionality was made more modular and easier to maintain by using a class-based approach to encapsulate related data and operations.
 • Areas for Improvement: The code works as intended, although a few places may use improvement. For instance, input validation might be enhanced to more graciously manage user-inputted erroneous data, displaying helpful error messages and encouraging the user to enter accurate data. To manage unforeseen runtime failures and provide a better user experience, error-handling methods could also be put in place.
 • Challenging Pieces of Code: Implementing the logic to determine the year-end balance and earned interest for each year was one of the most difficult aspects of the code, particularly when taking into account the scenario with additional monthly contributions. The solution to this problem was to thoroughly plan and test the calculation process and to seek advice from online forums and manuals, among other resources.
