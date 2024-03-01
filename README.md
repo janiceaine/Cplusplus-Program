@@ -7,6 +7,7 @@ To run the program, follow these steps:
 -	Clone this repository to your local machine.
 -	Open the project in your preferred IDE (Integrated Development Environment).
 -	Build and run the program.
+  
 Usage 
 Upon running the program, users will be prompted to enter the following information:
 -	Initial investment amount
